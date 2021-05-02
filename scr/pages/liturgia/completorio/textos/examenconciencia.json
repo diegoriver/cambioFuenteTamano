@@ -1,0 +1,24 @@
+{
+    "nombre": "EXÁMEN DE CONCIENCIA",
+    "oracionInicial": "Hermanos: al llegar al final de esta jornada que Dios nos ha concedido, reconozcamos sinceramente nuestros pecados.",
+    
+    "examen1":{	
+		"oracion" : "Yo confieso a Dios Todopoderoso, y a la Bienaventurada Virgen María, al Bienaventurado Domingo. Nuestro Padre, a todos los santos, y a ustedes hermanos, que he pecado mucho de pensamiento, palabra, obra y omisión; por mi culpa, les pido rueguen por mí.",
+		"v1" : " Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna",
+		"r1" : " Amén."
+
+	},
+
+ 
+    "examen6":{	
+		"v1" : " Tú, que perdonaste al ladrón arrepentido: ¡Señor, ten piedad! ",
+		"r1" : "  ¡Señor, ten piedad! \n",
+		"v2" : " Tú, que nos llamas a la conversión: ¡Cristo, ten piedad! ",
+    "r2" : "  ¡Cristo, ten piedad! \n",
+    "v3" : " Tú, que eres clemente y compasivo: ¡Señor, ten piedad!",
+    "r3" : "  ¡Señor, ten piedad! \n",
+    "oracion" : "Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna.",
+    "roracion" : " Amén"
+    }
+
+}

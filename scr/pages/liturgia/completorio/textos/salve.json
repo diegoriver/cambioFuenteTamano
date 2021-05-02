@@ -1,0 +1,147 @@
+{ 
+    
+	"sabado1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quisiste fundar la Orden de Predicadores para la salvación de las almas bajo el patrocinio especial de la Bienaventurada Virgen María, y la has colmado siempre de sus beneficios; concede a los que te suplicamos, y hoy honramos su memoria, que, protegidos por su ayuda, lleguemos a la gloria celestial. Por Jesucristo Nuestro Señor. Amén\n"
+    },
+    "domingo1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quisiste asociar a la obra de la salvación a tu Madre, la Bienaventurada Virgen María, por su libre obediencia a tu voluntad; concédenos por su intercesión que de tal manera crezcamos en la fe, la esperanza y la caridad, que estemos dispuestos a cooperar generosamente en el servicio a la Iglesia. Por Jesucristo Nuestro Señor. Amén.\n"
+	},
+    "lunes1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios nuestro, que derramaste el Espíritu Santo sobre los Apóstoles dedicados a la oración en compañía de María, la Madre de Jesús, haz que la intercesión de la Virgen nos ayude a seguirte con fidelidad y a anunciar tu reino con nuestra vida y nuestras palabras. Por Cristo Nuestro Señor. Amén.\n"
+    },
+    "martes1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quisiste, según el anuncio del ángel, que tu Hijo tomase carne de las entrañas de la Virgen María, concede a los que te suplicamos y creemos que verdaderamente ella es Madre de Dios, recibir por su intercesión ante ti la ayuda de tu protección. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "miercoles1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios todopoderoso, haz que, por la intercesión de Santa María, la Virgen, nosotros, tus hijos, gocemos de plena salud de alma y cuerpo, vivamos alegres en medio de las dificultades del mundo y alcancemos la felicidad de tu reino eterno. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "jueves1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quieres que todos los hombres se salven y lleguen al pleno conocimiento de la verdad: por intercesión de María, mira cuán grande es la abundancia de tu mies y dígnate enviarle operarios, para que a toda criatura le sea anunciado el Evangelio, y tu pueblo, congregado por la palabra de la vida y por los sacramentos, camine por senderos de salvación y de amor. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "viernes1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios nuestro, que por la maternidad virginal de María, has dado el tesoro de la salvación a los hombres; haz que sintamos la intercesión de la Virgen y Madre, pues por ella recibimos al autor de la vida, Jesucristo tu Hijo y Señor nuestro, que vive y reina por los siglos de los siglos. Amén.\n"
+	},
+    
+	"sabado3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quisiste fundar la Orden de Predicadores para la salvación de las almas bajo el patrocinio especial de la Bienaventurada Virgen María, y la has colmado siempre de sus beneficios; concede a los que te suplicamos, y hoy honramos su memoria, que, protegidos por su ayuda, lleguemos a la gloria celestial. Por Jesucristo Nuestro Señor. Amén\n"
+    },
+    "domingo3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quisiste asociar a la obra de la salvación a tu Madre, la Bienaventurada Virgen María, por su libre obediencia a tu voluntad; concédenos por su intercesión que de tal manera crezcamos en la fe, la esperanza y la caridad, que estemos dispuestos a cooperar generosamente en el servicio a la Iglesia. Por Jesucristo Nuestro Señor. Amén.\n"
+	},
+    "lunes3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios nuestro, que derramaste el Espíritu Santo sobre los Apóstoles dedicados a la oración en compañía de María, la Madre de Jesús, haz que la intercesión de la Virgen nos ayude a seguirte con fidelidad y a anunciar tu reino con nuestra vida y nuestras palabras. Por Cristo Nuestro Señor. Amén.\n"
+    },
+    "martes3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quisiste, según el anuncio del ángel, que tu Hijo tomase carne de las entrañas de la Virgen María, concede a los que te suplicamos y creemos que verdaderamente ella es Madre de Dios, recibir por su intercesión ante ti la ayuda de tu protección. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "miercoles3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios todopoderoso, haz que, por la intercesión de Santa María, la Virgen, nosotros, tus hijos, gocemos de plena salud de alma y cuerpo, vivamos alegres en medio de las dificultades del mundo y alcancemos la felicidad de tu reino eterno. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "jueves3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que quieres que todos los hombres se salven y lleguen al pleno conocimiento de la verdad: por intercesión de María, mira cuán grande es la abundancia de tu mies y dígnate enviarle operarios, para que a toda criatura le sea anunciado el Evangelio, y tu pueblo, congregado por la palabra de la vida y por los sacramentos, camine por sendero de salvación y de amor. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "viernes3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios nuestro, que por la maternidad virginal de María, has dado el tesoro de la salvación a los hombres; haz que sintamos la intercesión de la Virgen y Madre, pues por ella recibimos al autor de la vida, Jesucristo tu Hijo y Señor nuestro, que vive y reina por los siglos de los siglos. Amén.\n"
+	},
+	    
+	"sabado2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, por la intercesión de la Santa Madre de Dios ilumina con la gracia de tu Espíritu Santo los corazones de tus hijos; y a cuantos dan a conocer tu doctrina, dales palabras de fuego y crecimiento en la virtud. Amén.\n"
+    },
+    "domingo2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios del amor y de la fidelidad, que has querido encomendar a Domingo y a su Orden al patrocinio de Santa María la Virgen; te pedimos nos concedas que así como en la vida presente ella es para nosotros vida, dulzura y esperanza nuestra, así también nos muestre misericordiosamente ante tu Hijo el último día. Por Jesucristo Nuestro Señor. Amén.\n"
+	},
+    "lunes2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Te pedimos, Señor, que la maternal intercesión de la Madre de tu Hijo, libre de los males de este mundo y conduzca a los gozos de tu Reino a los fieles que se alegran al saberse protegidos por la Virgen María. Por Cristo Nuestro Señor. Amén.\n"
+    },
+    "martes2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que preparaste en el corazón de la Bienaventurada Virgen María una digna morada del Espíritu Santo; te rogamos que, por la intercesión de la misma Virgen, merezcamos alcanzar el templo de tu gloria. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "miercoles2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios y Señor Nuestro, que por la maternidad virginal de María entregaste a los hombres los bienes de la salvación; concédenos experimentar la intercesión de la Virgen Madre, de quien hemos recibido a tu Hijo Jesucristo, el autor de la vida que vive  reina contigo por los siglos de los siglos. Amén.\n"
+    },
+    "jueves2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, fiel y misericordioso, que quisiste poner bajo el patrocinio especial de la Bienaventurada Virgen María a la Orden de Predicadores, te rogamos nos concedas que, así como ella es para nosotros ya en este momento de la vida, dulzura y esperanza, así también en la hora de la muerte nos muestre a su Hijo misericordioso con nosotros. El cual vive y reina contigo por los siglos de los siglos. Amén.\n"
+    },
+    "viernes2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor Jesús, que quisiste que tu gloriosa Madre llevase el nombre de María, te suplicamos que cuantos invocamos su dulce nombre, experimentemos para siempre la ayuda de tu bendición. Tu que vives y reinas por los siglos de los siglos. Amén.\n"
+	},
+	
+	    
+	"sabado4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, por la intercesión de la Santa Madre de Dios ilumina con la gracia de tu Espíritu Santo los corazones de tus hijos; y a cuantos dan a conocer tu doctrina, dales palabras de fuego y crecimiento en la virtud. Amén.\n"
+    },
+    "domingo4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios del amor y de la fidelidad, que has querido encomendar a Domingo y a su Orden al patrocinio de Santa María la Virgen; te pedimos nos concedas que así como en la vida presente ella es para nosotros vida, dulzura y esperanza nuestra, así también nos muestre misericordiosamente ante tu Hijo el último día. Por Jesucristo Nuestro Señor. Amén.\n"
+	},
+    "lunes4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Te pedimos, Señor, que la maternal intercesión de la Madre de tu Hijo, libre de los males de este mundo y conduzca a los gozos de tu Reino a los fieles que se alegran al saberse protegidos por la Virgen María. Por Cristo Nuestro Señor. Amén.\n"
+    },
+    "martes4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que preparaste en el corazón de la Bienaventurada Virgen María una digna morada del Espíritu Santo; te rogamos que, por la intercesión de la misma Virgen, merezcamos alcanzar el templo de tu gloria. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "miercoles4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios y Señor Nuestro, que por la maternidad virginal de María entregaste a los hombres los bienes de la salvación; concédenos experimentar la intercesión de la Virgen Madre, de quien hemos recibido a tu Hijo Jesucristo, el autor de la vida que vive  reina contigo por los siglos de los siglos. Amén.\n"
+    },
+    "jueves4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, fiel y misericordioso, que quisiste poner bajo el patrocinio especial de la Bienaventurada Virgen María a la Orden de Predicadores, te rogamos nos concedas que, así como ella es para nosotros ya en este momento de la vida, dulzura y esperanza, así también en la hora de la muerte nos muestre a su Hijo misericordioso con nosotros. El cual vive y reina contigo por los siglos de los siglos. Amén.\n"
+    },
+    "viernes4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor Jesús, que quisiste que tu gloriosa Madre llevase el nombre de María, te suplicamos que cuantos invocamos su dulce nombre, experimentemos para siempre la ayuda de tu bendición. Tu que vives y reinas por los siglos de los siglos. Amén.\n"
+	},
+
+    "latin":{	
+		"nombre" : "OREMUS",
+		"cuerpo": "Concedenos famulos tuos, quaesumus, Domine Deus, perpetua mentis et corporis salute gaudere: et gloriosa beatae Mariae semper Virginis intercessione a praesenti liberari tristitia et aeterna perfrui laetitia: Per Christum Dominum Nostrum. Amen.\n"
+	},
+	
+	"salve":{	
+		"nombre" : "SALVE REGINA",
+		"cuerpo": [
+			"Salve, Regina, Mater misericordiae,\n",
+			"Vita, dulcedo, et spes nostra, salve.\n",
+			"Ad te clamamus, exsules filii Hevae,\n",
+			"Ad te suspiramus, gementes et flentes\n",
+			"In hac lacrimarum valle.\n",
+			"Eia, ergo, advocata nostra, illos tuos\n",
+			"Misericordes oculos ad nos converte;\n",
+			"Et Jesum, benedictum fructum ventris tui,\n",
+			"Nobis post hoc exilium ostende\n",
+			"O clemens, O pia, O dulcis Virgo Maria.\n"
+		]
+	},
+
+	"v1" : " Dignare me laudare te, Virgo sacrata",
+	"r1" : " Da mihi virtutem contra hostes tuos\n",
+	
+	"v2" : " Ora pro nobis, sancta Dei Genetrix",
+	"r2" : " Ut digni efficiamur promissionibus Christi.\n"
+ 
+}

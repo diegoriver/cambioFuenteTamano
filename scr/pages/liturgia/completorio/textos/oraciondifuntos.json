@@ -1,0 +1,32 @@
+{ 
+    
+	"sabado":{	
+		"nombre" : "OREMOS\n",
+		"cuerpo": "Oh Dios, Creador y Redentor de todos los fieles, concede a tus siervas y siervos la remisión de todos sus pecados, para que por nuestras fervorosas súplicas, consigan el perdón que siempre han deseado. Tú que vives y reinas por los siglos de los siglos. Amén.\n"
+    },
+    "domingo":{	
+		"nombre" : "OREMOS\n",
+		"cuerpo": "Escucha, Señor, nuestra súplica, y haz que al proclamar nuestra fe en la resurrección de tu Hijo, se avive también nuestra esperanza en la resurrección de nuestros hermanos. Por Jesucristo Nuestro Señor. Amén.\n"
+	},
+    "lunes":{	
+		"nombre" : "OREMOS\n",
+		"cuerpo": "Oh Señor, ya que hemos recibido de ti esta misma maravillosa promesa, te pedimos acojas contigo en la paz y en el gozo a nuestros hermanos y hermanas difuntos, a quienes en vida amaste con inefable amor y les diste la gracia de servirte con caridad apostólica en la predicación del Evangelio. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "martes":{	
+		"nombre" : "OREMOS\n",
+		"cuerpo": "Señor Dios que concedes el perdón de los pecados y quieres la salvación de todos los hombres, por la intercesión de Santa María la Virgen, y de todos los santos, concede a nuestros hermanos, familiares y bienhechores difuntos que han salido de este mundo alcanzar la eterna bienaventuranza. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "miercoles":{	
+		"nombre" : "OREMOS\n",
+		"cuerpo": "Señor Dios. Padre de Nuestro Señor Jesucristo, que en tu Hijo nos elegiste y predestinaste para que fuésemos alabanza de tu gloria, te damos gracias por los dones recibidos y te pedimos nos lleves a Todos, vivos y difuntos, a tu misma casa para ser ya santos e inmaculados en tu presencia. Por Jesucristo Nuestro Señor. Amén. \n"
+    },
+    "jueves":{	
+		"nombre" : "OREMOS\n",
+		"cuerpo": "Padre de inmensa majestad, escucha a estos tus hijos que celebran tu gloria; haz que caminemos en el esplendor de tu rostro y acoge en tu luz a todos nuestros hermanos y hermanas difuntos. Por Jesucristo Nuestro Señor. Amén.\n"
+    },
+    "viernes":{	
+		"nombre" : "OREMOS\n",
+		"cuerpo": "Oh Dios, que resucitaste a tu Hijo para que, venciendo la muerte, entrara en tu Reino; concede a tus siervos y siervas difuntos que, superada su condición mortal, puedan contemplarte para siempre como creador y Salvador. Por Jesucristo Nuestro Señor. Amén.\n"
+	}
+    
+}

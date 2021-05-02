@@ -1,0 +1,22 @@
+{
+    "responsorio1":{
+        "nombre": "FERIA",
+        "v1" : " En tus manos Señor, encomiendo mi espíritu",
+        "r1" : " En tus manos Señor, te encomiendo mi espíritu\n",
+        "v2" : " Tu, el Dios leal, nos librarás",
+        "r2" : " te encomiendo mi espíritu\n",
+        "v3" : " Gloria al Padre, al Hijo, y al Espíritu Santo.",
+        "r3" : " En tus manos Señor, te encomiendo mi espíritu"
+    },
+
+    "responsorio4":{
+        "nombre": "SOLEMNIDADES Y TIEMPO DE PASCUA",
+        "v1" : " En tus manos Señor, encomiendo mi espíritu. Aleluya Aleluya",
+        "r1" : " En tus manos Señor, encomiendo mi espíritu. Aleluya Aleluya\n",
+        "v2" : " Tu, el Dios leal, nos librarás",
+        "r2" : " Aleluya Aleluya\n",
+        "v3" : " Gloria al Padre, al Hijo, y al Espíritu Santo.",
+        "r3" : " En tus manos Señor, encomiendo mi espíritu. Aleluya Aleluya"
+    }
+
+}

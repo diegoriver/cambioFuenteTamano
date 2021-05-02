@@ -1,0 +1,43 @@
+{
+    "cantico1":{
+        "nombre": "FERIA", 
+        "antifona" : " Salvanos Señor despiertos, portegenos mientras dormimos, para que velemos con Cristo y descansemos en paz.\n",
+        "TP": " Aleluya aleluya\n\n",
+        "cuerpo": [
+            "Ahora, Señor, según tu promesa, \n",
+            "puedes dejar a tu siervo irse en paz, \n", 
+            "  \n",
+            "Porque mis ojos han visto a tu Salvador, \n",
+            "a quien has presentado ante todos los pueblos: \n", 
+            "  \n",
+            "Luz para alumbrar a las naciones \n",
+            "y gloria de tu pueblo Israel. \n", 
+            "  \n",
+            "Gloria al Padre y al Hijo y al Espíritu Santo. \n", 
+            "Como era en el principio, ahora y siempre \n", 
+            "por los siglos de los siglos. Amén. \n\n"
+        ]
+    },
+
+
+    "cantico4":{
+        "nombre": "FIESTAS, SOLEMNIDADES Y TIEMPO DE PASCUA",
+        "antifona" : " Salvanos Señor despiertos, portegenos mientras dormimos, para que velemos con Cristo y descansemos en paz.",
+        "TP": " Aleluya aleluya\n",
+        "cuerpo": [
+            "Ahora, Señor, según tu promesa, \n",
+            "puedes dejar a tu siervo irse en paz, \n", 
+            "  \n",
+            "Porque mis ojos han visto a tu Salvador, \n",
+            "a quien has presentado ante todos los pueblos: \n", 
+            "  \n",
+            "Luz para alumbrar a las naciones \n",
+            "y gloria de tu pueblo Israel. \n", 
+            "  \n",
+            "Gloria al Padre y al Hijo y al Espíritu Santo. \n", 
+            "Como era en el principio, ahora y siempre \n", 
+            "por los siglos de los siglos. Amén. \n\n"
+        ]
+    }
+
+}

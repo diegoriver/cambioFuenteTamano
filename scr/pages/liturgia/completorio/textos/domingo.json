@@ -1,0 +1,192 @@
+{ 
+	"ospem":{	
+		"nombre" : "O SPEM MIRAM",
+		"cuerpo": [
+			"O spem miram quam dedisti\n", 
+			"mortis hora te flentibus\n", 
+			"dum post mortem promisisti\n", 
+			"te profuturum fratribus.\n", 
+			" \n",
+			"Imple, pater, quod dixisti\n", 
+			"nos tuis juvans precibus.\n", 
+			"Qui tot signis claruisti\n", 
+			"in aegrorum corporibus\n", 
+			"nobis opem ferens Christi\n", 
+			"aegris medere moribus.\n", 
+			" \n",
+			"Imple, pater, quod dixisti\n", 
+			"nos tuis juvans precibus.\n"
+		],
+		"v" : " Ora pro nobis Beate Pater Dominice. (Aleluia).",
+		"r" : " Ut digni efficiamur promissionibus Christi. (Aleluia)."
+
+	},
+
+	"ohesperanza":{	
+		"nombre" : "OH ESPERANZA",
+		"cuerpo": [
+			"¡Oh esperanza que nos diste,\n", 
+			"cuando estabas para morir¡\n", 
+			"que en el cielo ayudarías\n", 
+			"a eso tus hijos aún mejor.\n", 
+			" \n",
+			"Cumple Padre, la pormesa\n", 
+			"con tu oración ayudanos.\n", 
+			" \n",
+			"Tu curaste a los enfermos,\n", 
+			"con milagros numeroso,\n", 
+			"fortalece nuestras vidas,\n", 
+			"Danos la gracia del Señor.\n"
+
+		],
+		"v" : " Ruega por nosostros, Bienaventurado Padre Domingo (Aleluia).",
+		"r" : " Para que seamos dignos de alcanzar las promesas de Cristo. (Aleluia)."
+	},
+
+	"ohlumen":{	
+		"nombre" : "OH LUMEN",
+		"cuerpo": [
+			"O lumen Ecclesiae, Doctor veritatis,\n", 
+			"Rosa patientiae, Ebur castitatis.\n", 
+			"Aquam sapientiae propinasti gratis.\n", 
+			"Praedicator gratiae, nos iunge beatis.\n" 
+		],
+		"v" : " Ora pro nobis Beate Pater Dominice. (Aleluia).",
+		"r" : " Ut digni efficiamur promissionibus Christi. (Aleluia)."
+	},
+	
+	
+	"ohluz":{	
+		"nombre" : "OH LUZ DE LA IGLESIA",
+		"cuerpo": [
+			"Oh, Luz de la Iglesia, Doctor de la Verdad,\n", 
+			"Ejemplo de Paciencia, Ideal de Castidad,\n", 
+			"que nos diste a beber con largueza el agua de la Sabiduría.\n", 
+			"Predicador de la Gracia, únenos a los Santos.\n" 
+		],
+		"v" : " Ruega por nosostros, Bienaventurado Padre Domingo (Aleluia).",
+		"r" : " Para que seamos dignos de alcanzar las promesas de Cristo. (Aleluia)."
+	},
+    
+
+	"sabado1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Tú, Señor, que concediste a Santo Domingo el don de imitar con fidelidad a Cristo pobre y humilde, concédenos también a nosotros, por su intercesión, la gracia de que, viviendo fielmente nuestra vocación, tendamos hacia la perfección que nos propones en la persona de tu Hijo, que vive y reina por los siglos de los siglos. Amén."
+    },
+    "domingo1":{	"nombre" : "OREMOS",
+		"cuerpo": "Señor Jesucristo, que formaste a tu Iglesia con tu preciosísima Sangre y con la acción de los Apóstoles la fundaste y la propagaste, extendiéndola por todo el mundo, y que después de ello enviaste a Santo Domingo para devolverle su hermosura ilustrándola y defendiéndola con el esplendor de sus méritos y con su enseñanza; escucha propicio los deseos que aquel varón apostólico no cesa de presentarte para que la Iglesia no carezca de la ayuda temporal y progrese siempre espiritualmente. Por Jesucristo Nuestro Señor. Amén."
+	},
+    "lunes1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh glorioso Patriarca Santo Domingo, que viviste como ejemplo de obediencia y castidad, mortificando tu cuerpo inocente y disciplinándolo con ayuno y vigilias; alcánzanos la gracia de ejercitar la virtud de la penitencia con total convicción y guardar la integridad del corazón por la pureza de nuestros sentidos. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "martes1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Te rogamos, Dios Omnipotente, nos concedas a los que nos sentimos agobiados por el peso de nuestros pecados, seamos ayudados por la protección del Bienaventurado Domingo, tu confesor y Padre Nuestro. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "miercoles1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Excelso Patriarca Santo Domingo, que en la oración encontraste el acceso al fervor del amor Divino y en la unión íntima con Dios tuviste tus mayores gozos, alcánzanos la fidelidad a la oración cotidiana, el amor ferviente al Señor y la gracia de cumplir cada día mejor sus preceptos divinos. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "jueves1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Te pedimos Señor, que Nuestro Padre Santo Domingo, insigne predicador de tu palabra, ilumine a tu Iglesia con sus méritos y enseñanzas, e interceda también con bondad por nosotros. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "viernes1":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Glorioso Padre Santo Domingo, que lleno de celo por la salvación de las almas predicaste asiduamente la palabra del Evangelio y fundaste la Orden de Predicadores para procurar la defensa de la verdadera fe y la conversión de los pecadores; intercede ante Dios por nosotros para que nos concedas la gracia de amar sinceramente a nuestros hermanos y de ayudarlos con oraciones y buenas obras, a fin de que consigan la santificación y la salvación eterna. Por Jesucristo Nuestro Señor. Amén."
+	},
+    
+	"sabado3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Tú, Señor, que concediste a Santo Domingo el don de imitar con fidelidad a Cristo pobre y humilde, concédenos también a nosotros, por su intercesión, la gracia de que, viviendo fielmente nuestra vocación, tendamos hacia la perfección que nos propones en la persona de tu Hijo, que vive y reina por los siglos de los siglos. Amén."
+    },
+    "domingo3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor Jesucristo, que formaste a tu Iglesia con tu preciosísima Sangre y con la acción de los Apóstoles la fundaste y la propagaste, extendiéndola por todo el mundo, y que después de ello enviaste a Santo Domingo para devolverle su hermosura ilustrándola y defendiéndola con el esplendor de sus méritos y con su enseñanza; escucha propicio los deseos que aquel varón apostólico no cesa de presentarte para que la Iglesia no carezca de la ayuda temporal y progrese siempre espiritualmente. Por Jesucristo Nuestro Señor. Amén."
+	},
+    "lunes3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh glorioso Patriarca Santo Domingo, que viviste como ejemplo de obediencia y castidad, mortificando tu cuerpo inocente y disciplinándolo con ayuno y vigilias; alcánzanos la gracia de ejercitar la virtud de la penitencia con total convicción y guardar la integridad del corazón por la pureza de nuestros sentidos. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "martes3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Te rogamos, Dios Omnipotente, nos concedas a los que nos sentimos agobiados por el peso de nuestros pecados, seamos ayudados por la protección del Bienaventurado Domingo, tu confesor y Padre Nuestro. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "miercoles3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Excelso Patriarca Santo Domingo, que en la oración encontraste el acceso al fervor del amor Divino y en la unión íntima con Dios tuviste tus mayores gozos, alcánzanos la fidelidad a la oración cotidiana, el amor ferviente al Señor y la gracia de cumplir cada día mejor sus preceptos divinos. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "jueves3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Te pedimos Señor, que Nuestro Padre Santo Domingo, insigne predicador de tu palabra, ilumine a tu Iglesia con sus méritos y enseñanzas, e interceda también con bondad por nosotros. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "viernes3":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Glorioso Padre Santo Domingo, que lleno de celo por la salvación de las almas predicaste asiduamente la palabra del Evangelio y fundaste la Orden de Predicadores para procurar la defensa de la verdadera fe y la conversión de los pecadores; intercede ante Dios por nosotros para que nos concedas la gracia de amar sinceramente a nuestros hermanos y de ayudarlos con oraciones y buenas obras, a fin de que consigan la santificación y la salvación eterna. Por Jesucristo Nuestro Señor. Amén."
+	},
+     
+	"sabado2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios Nuestro, tú concediste al Patriarca Santo Domingo que con sus fervientes súplicas te pidiese “una autentica caridad, que fuera eficaz para dedicarse y procurar la salvación de los hombres”, concédenos estar llenos de esa misma solicitud por la caridad. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "domingo2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios del amor y de la fidelidad, que nos has enviado tu palabra para que sea nuestro camino, concédenos que tras las huellas de santo Domingo “caminemos con alegría y pensemos en nuestro salvador”, Jesucristo, tu Hijo, que vive y reina por los siglos de los siglos. Amén."
+	},
+    "lunes2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios del perdón y de la fidelidad, que nos diste a Santo Domingo a imagen de tu Hijo: 'manso y humilde de corazón'; te rogamos nos concedas con su ejemplo y su intercesión que conservemos la humildad y con alegría vivamos en pobreza voluntaria. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "martes2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh buen Jesús, que te complaciste en Santo Domingo, a quien todas las noches veías postrado delante de tu altar adorando con fe vivísima tu presencia oculta en el Santísimo Sacramento de la Eucaristía, a la vez que redoblaba sus gemidos, plegarias y penitencia por tu Iglesia: protege siempre a esta esposa tuya, la Iglesia, por la intercesión de Santo Domingo, nuestro padre. Tú que vives y reinas por los siglos de los siglos. Amén."
+    },
+    "miercoles2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Redentor clementísimo, que diste al mundo a Santo Domingo para que fuera tu colaborador en el ministerio de la salvación de las almas, habiendo llevado efectivamente tantas almas a la Iglesia por tu gracia y mediante su celo; te suplicamos Dios Nuestro, que envíes continuamente nuevos obreros a tu viña, que trabajen para tu gloria y recojan frutos para la vida eterna. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "jueves2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que te has dignado fecundar la Orden de Predicadores con numerosa generación de Santos, y que de modo sublime coronaste en ellos la práctica heróica de todas las virtudes, concédenos seguir sus huellas para alcanzar la eterna salvación: y por sus grandes méritos y poderosa intercesión, haz florezca en nuestra patria la Orden del insigne Patriarca Santo Domingo de Guzmán, por el número y santidad de sus miembros, para el servicio apostólico de tu palabra y salvación de nuestros hermanos. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "viernes2":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor Jesús, que concediste a Santo Domingo contemplar día y noche el misterio de la cruz y que fuese instruido sobre todo en el libro de la caridad: haz que nosotros viviendo del mismo modo en esta luz y contemplándote a ti Nuestro Salvador, podamos caminar siempre alegres a tu reino. Por Jesucristo Nuestro Señor. Amén."
+	},
+     
+	"sabado4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor, Dios Nuestro, tú concediste al Patriarca Santo Domingo que con sus fervientes súplicas te pidiese “una autentica caridad, que fuera eficaz para dedicarse y procurar la salvación de los hombres”, concédenos estar llenos de esa misma solicitud por la caridad. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "domingo4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios del amor y de la fidelidad, que nos has enviado tu palabra para que sea nuestro camino, concédenos que tras las huellas de santo Domingo “caminemos con alegría y pensemos en nuestro salvador”, Jesucristo, tu Hijo, que vive y reina por los siglos de los siglos. Amén."
+	},
+    "lunes4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Dios del perdón y de la fidelidad, que nos diste a Santo Domingo a imagen de tu Hijo: 'manso y humilde de corazón'; te rogamos nos concedas con su ejemplo y su intercesión que conservemos la humildad y con alegría vivamos en pobreza voluntaria. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "martes4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh buen Jesús, que te complaciste en Santo Domingo, a quien todas las noches veías postrado delante de tu altar adorando con fe vivísima tu presencia oculta en el Santísimo Sacramento de la Eucaristía, a la vez que redoblaba sus gemidos, plegarias y penitencia por tu Iglesia: protege siempre a esta esposa tuya, la Iglesia, por la intercesión de Santo Domingo, nuestro padre. Tú que vives y reinas por los siglos de los siglos. Amén."
+    },
+    "miercoles4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Redentor clementísimo, que diste al mundo a Santo Domingo para que fuera tu colaborador en el ministerio de la salvación de las almas, habiendo llevado efectivamente tantas almas a la Iglesia por tu gracia y mediante su celo; te suplicamos Dios Nuestro, que envíes continuamente nuevos obreros a tu viña, que trabajen para tu gloria y recojan frutos para la vida eterna. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "jueves4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Oh Dios, que te has dignado fecundar la Orden de Predicadores con numerosa generación de Santos, y que de modo sublime coronaste en ellos la práctica heróica de todas las virtudes, concédenos seguir sus huellas para alcanzar la eterna salvación: y por sus grandes méritos y poderosa intercesión, haz florezca en nuestra patria la Orden del insigne Patriarca Santo Domingo de Guzmán, por el número y santidad de sus miembros, para el servicio apostólico de tu palabra y salvación de nuestros hermanos. Por Jesucristo Nuestro Señor. Amén."
+    },
+    "viernes4":{	
+		"nombre" : "OREMOS",
+		"cuerpo": "Señor Jesús, que concediste a Santo Domingo contemplar día y noche el misterio de la cruz y que fuese instruido sobre todo en el libro de la caridad: haz que nosotros viviendo del mismo modo en esta luz y contemplándote a ti Nuestro Salvador, podamos caminar siempre alegres a tu reino. Por Jesucristo Nuestro Señor. Amén."
+	},
+
+    "latin":{	
+		"nombre" : "OREMUS",
+		"cuerpo": "Concede, quaesumus omnipotens Deus, ut qui peccatorum nostrorum pondere premimur, beati Dominici confessoris tui, Patris nostri, patrocinio sublevemur. Per Christum Dominum Nostrum. Amen."
+	}
+	
+}

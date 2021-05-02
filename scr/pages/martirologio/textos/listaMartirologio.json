@@ -1,0 +1,100 @@
+{
+
+    "fecha0101":{
+        "fecha" :  "01 de Enero",
+        "nombre" : "Santa María, Madre de Dios. " ,
+        "fiesta" : "Solemnidad",
+        "resena" : " "
+        },
+        
+    "fecha0301":{
+        "fecha" : "03 de Enero",
+        "nombre" :"Santísimo Nombre de Jesús. ",
+        "fiesta" :"Conmemoración",
+        "resena" : "En nuestra Orden desde los orígenes se enumeran varios hermanos que profesaron amor particular al “dulcísimo nombre del Salvador.” Gregorio X después del segundo Concilio de Lyon (1274), encomendó a los frailes predicadores la promoción de la alabanza y veneración del Santísimo Nombre de Jesús, siendo el beato Juan Vercelli, Maestro de la Orden en el momento, uno de los que con más ardor se dedicó a esta promoción.  "
+        },
+
+    "fecha0401":{
+        "fecha" : "04 de Enero",
+        "nombre" :"Santa Zedíslava de Lemberk.",
+        "fiesta" :"M.L",
+        "resena" : " "
+        },
+
+    "fecha0701":{
+        "fecha" : "07 de Enero",
+        "nombre" :"San Raimundo de Peñafort, presbítero.",
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+
+    "fecha1001":{
+        "fecha"  : "10 de Enero",
+        "nombre" :"Beata Ana de los Ángeles Monteagudo.", 
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+
+    "fecha1501":{
+        "fecha"  : "15 de Enero",
+        "nombre" :"San Francisco Fernández de Capillas y Comp. Mártires.",
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+
+    "fecha1801":{
+        "fecha"  : "18 de Enero",
+        "nombre" :"Santa Margarita de Hungría.",
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+
+    "fecha2301": {
+        "fecha"  : "23 de Enero",
+        "nombre" :"Beato Enrique Seuze, presbítero.", 
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+
+    "fecha2801":{
+        "fecha"  : "28 de Enero",
+        "nombre" :"Santo Tomás de Aquino, presbítero y Doctor de la Iglesia.",
+        "fiesta" :"Fiesta",
+        "resena" : " "
+        },
+
+    "fecha0402":{
+        "fecha"  : "04 de febrero",
+        "nombre" :"Santa Catalina de Ricci, Virgen.", 
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+
+    "fecha0702":{
+        "fecha"  :"07 de febrero",
+        "nombre" :"Aniversario de los padres y madres difuntos. ",
+        "fiesta" :"M.L",
+        "resena" : " "
+        },
+
+    "fecha1302":{
+        "fecha"  :"13 de febrero",
+        "nombre" :"Beato Jordán de Sajonia, Presbítero.", 
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+    
+    "fecha1802":{
+        "fecha"  :"18 de febrero",
+        "nombre" :"Beato Juan de Fiésole (Fray Angélico), Presbítero.", 
+        "fiesta" :"M.O",
+        "resena" : " "
+        },
+       
+    "fecha1902":{
+        "fecha"  :"19 de febrero",
+        "nombre" :"Beato Álvaro de Córdoba, Presbítero.", 
+        "fiesta" :"M.O",
+        "resena" : " "
+        }
+}

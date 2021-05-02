@@ -1,0 +1,31 @@
+{
+   
+    "otrosdias":{	
+		"nombre" : "SALMO 129",
+		"v1" : " Desde lo hondo a ti grito, Señor: Señor, escucha mi voz:",
+		"r1" : " estén tus oídos atentos a la voz de mi súplica.\n",
+		"v2" : " Si llevas cuentas de los delitos, Señor, ¿quién podrá resistir?",
+    "r2" : " Pero de ti procede el perdón, y así infundes respeto.\n",
+    "v3" : " Mi alma espera en el Señor, espera en su palabra.",
+		"r3" : " mi alma aguarda al Señor, más que el centinela la aurora\n",
+		"v4" : " Aguarde Israel al Señor, como el centinela la aurora:",
+    "r4" : " porque del Señor viene la misericordia, la redención copiosa.\n",
+    "v5" : " Y él redimirá a Israel de todos sus delitos.",
+		"r5" : " Dales, Señor, el descanso eterno y brille para ellos la luz perpetua.\n"
+    },
+   
+    "miercoles":{	
+		"nombre" : "SALMO 120",
+		"v1" : " Levanto mis ojos a los montes: ¿de dónde me vendrá el auxilio?",
+		"r1" : " El auxilio me viene del Señor que hizo el cielo y la tierra.\n",
+		"v2" : " No permitirá que resbale tu pie, tu guardián no duerme;",
+    "r2" : " no duerme ni reposa el guardián de Israel.\n",
+    "v3" : " El Señor te guarda a su sombra, está a tu derecha;",
+		"r3" : " De día el sol no te hará daño, ni la luna de noche.\n",
+		"v4" : " El Señor te guarda de todo mal, él guarda tu alma; ",
+    "r4" : " el Señor guarda tus entradas y salidas ahora y por siempre.\n",
+    "v5" : " Dales, Señor, el descanso eterno.",
+		"r5" : " Brille para ellos la luz perpetua.\n"
+    }    
+
+}

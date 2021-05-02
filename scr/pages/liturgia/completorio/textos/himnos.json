@@ -1,0 +1,65 @@
+{
+    "himno1":{	
+		"nombre" : "QUE VES EN LA NOCHE",
+		"cuerpo": [
+			"¿Qué ves en la noche?\n", 
+      "Dinos centinela (Bis)\n",
+      " \n",
+      "¿Qué ves en la noche? Dinos centinela (Bis)\n",
+      "Dios como un almendro,\n",
+      "con la flor despierta; \n",
+      "Dios, que nunca duerme, \n",
+      "busca quien no duerma. \n",
+      "Y entre las diez vírgenes, \n",
+      "sólo hay cinco en vela.\n",
+      " \n",
+      "¡Gallos vigilantes\n",
+      "que en la noche alertan!\n",
+      "Quien negó tres veces\n",
+      "otras tres confiesa.\n",
+      "Y pregona el llanto\n",
+      "lo que le miedo niega.\n",
+      "\n",
+      "Muerto lo bajaban\n",
+      "a la tumba nueva: \n",
+      "Nunca tan adentro\n",
+      "tuvo al sol la tierra.\n", 
+      "Daba el monte gritos\n",
+      "piedra contra piedra.\n",
+      "\n",
+      "Vi los cielos nuevos \n",
+      "y la tierra nueva; \n",
+      "Cristo entre los vivos\n",
+      "y la muerte muerta.\n",
+      "Dios en las criaturas\n",
+      "¡y eran todas buenas!\n"
+		]
+	},
+
+ 
+
+  "himno9":{	
+		"nombre" : "LA NOCHE",
+		"cuerpo": [
+      "/La noche será mi maestra \n", 
+      "La noche, la luna y las estrellas/ (x2). \n", 
+      "  \n",
+      "Habitaré su soledad como un aula, \n", 
+      "De su silencio aprenderé la enseñanza, \n", 
+      "/y esperaré la mañana, \n", 
+      "Aguardaré el sol de tu gracia/ (x2). \n", 
+      "  \n",
+      "/La noche será mi maestra La noche, \n", 
+      "la luna y las estrellas/ (x2). \n", 
+      "  \n",
+      "Cantos de gozo regalaste a mi alma, \n", 
+      "Yo cantaré para tu honor y alabanza, \n", 
+      "/y esperaré la mañana, \n", 
+      "Aguardaré el sol de tu gracia/ (x2). \n", 
+      "  \n",
+      "/La noche será mi maestra La noche, \n", 
+      "la luna y las estrellas/ (x2). \n"
+    ]
+	}
+
+}

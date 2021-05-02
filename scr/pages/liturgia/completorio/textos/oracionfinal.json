@@ -1,0 +1,49 @@
+{
+	"sabado":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "DESPUÉS DE LAS PRIMERAS VÍSPERAS Y DURANTE LA OCTAVA DE PASCUA (PRIMERA OPCIÓN)",
+		"cuerpo": "Guárdanos, Señor, durante esta noche y haz que mañana, ya al clarear el nuevo día, la celebración del Domingo nos llene con la alegría de la resurrección de tu Hijo, que vive y reina por los siglos de los siglos. Amén."
+    },
+    "domingo":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "DESPUÉS DE LAS SEGUNDAS VÍSPERAS DEL DOMINGO Y DURANTE LA OCTAVA DE PASCUA (SEGUNDA OPCIÓN)",
+		"cuerpo": "Humildemente te pedimos, Señor, que después de haber celebrado en este día los misterios de la resurrección de tu Hijo, sin temor alguno, descansemos en paz, y mañana nos levantemos para cantar nuevamente tus alabanzas. Por Cristo Nuestro Señor. Amén"
+	},
+	"solemnidades":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "DESPUÉS DE LAS PRIMERAS Y SEGUNDAS VÍSPERAS DE LAS SOLEMNIDADES QUE NO COINCIDAN EN DOMINGO",
+		"cuerpo": "Visita, Señor, esta habitación: aleja de ella las insidias del enemigo; que tus ángeles habiten en ella y nos guarden en paz y que tu bendición permanezca siempre con nosotros. Por Cristo Nuestro Señor. Amén."
+	},
+	
+    "lunes":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "",
+		"cuerpo": "Concede, Señor, a nuestros cuerpos fatigados el descanso necesario, y haz que la simiente del Reino que hemos sembrado hoy crezca y germine para la cosecha de la vida eterna. Por Cristo Nuestro Señor. Amén."
+    },
+    "martes":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "",
+		"cuerpo": "Ilumina, Señor, nuestra noche y concédenos un descanso tranquilo; que mañana nos levantemos en tu nombre y podamos contemplar, con salud y gozo, el clarear del nuevo día. Por Cristo Nuestro Señor. Amén"
+    },
+    "miercoles":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "",
+		"cuerpo": "Señor, Jesucristo, tú que eres manso y humilde de corazón y ofreces a los que vienen a ti un yugo llevadero y una carga ligera; dígnate aceptar los deseos y las acciones del día que hemos terminado: que podamos descansar durante la noche para que así, renovado nuestro cuerpo y nuestro espíritu, perseveremos constantes en tu servicio. Tú que vives y reinas por los siglos de los siglos. Amén."
+    },
+    "jueves":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "",
+		"cuerpo": "Señor, Dios nuestro, concédenos un descanso tranquilo que restaure nuestras fuerzas, desgastadas ahora por el trabajo del día; así, fortalecidos con tu ayuda te serviremos siempre con todo nuestro cuerpo y nuestro espíritu. Por Cristo Nuestro Señor. Amén"
+    },
+    "viernes":{	
+		"nombre" : "BENDICIÓN FINAL",
+		"titulo" : "",
+		"cuerpo": "Señor, Dios Todopoderoso: ya que con nuestro descanso vamos a imitar a tu Hijo que reposó en el sepulcro, te pedimos que, al levantarnos mañana, lo imitemos también resucitando a una vida nueva. Por Cristo Nuestro Señor. Amén."
+    },
+    "bendicionfinal":{	
+		"nombre" : "Bendición Final",
+		"titulo" : "",
+		"cuerpo": "El Señor nos conceda una noche tranquila y una santa muerte. Amén."
+    }
+       
+}

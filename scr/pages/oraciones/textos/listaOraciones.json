@@ -1,0 +1,83 @@
+{
+    "oracion1":{	
+        "nombre" : "ANGELUS",
+        "v1" : " El ángel del Señor anunció a María",
+        "r1" : "  Y ella concibió por obra y gracia del Espíritu Santo.\n",
+        
+        "v2" : " He aquí la Esclava del Señor,",
+        "r2" : "  Hágase en mí según tu palabra.\n",
+        
+        "v3" : " El Hijo de Dios se hizo hombre",
+        "r3" : "  Y habitó entre nosotros.\n",
+        
+        "v4" : " Ruega por nosotros, Santa Madre de Dios",
+        "r4" : " Para que seamos dignos de alcanzar las promesas de Cristo.\n",
+ 
+		"cuerpo": [
+			"Dios te salve María, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.\n", 
+            " \n",
+            "Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.\n"
+        ],
+
+        "oremos" : "OREMOS",
+        "oracion" : "Infunde, Señor, tu gracia en nuestros corazones, para que quienes hemos reconocido por el anuncio del Ángel la Encarnación de tu Hijo, Jesucristo; conducidos por su pasión y cruz lleguemos a la gloria de la Resurrección. Por Jesucristo, nuestro Señor. Amén."
+	},
+
+ 
+  
+    "oracion12":{	
+        "nombre" : "ORACIÓN PARA ANTES DEL ESTUDIO (Santo Tomás de Aquino)",
+
+		"cuerpo": [
+            "Creador Inefable! \n",
+            "Tú, que eres la verdadera fuente \n",
+            "De luz y de sabiduría \n",
+            "Y el principio supremo \n",
+            "Dígnate infundir \n",
+            "Sobre las tinieblas de mi inteligencia \n",
+            "El resplandor de tu \n",
+            "Claridad, apartando de mí la \n",
+            "Doble oscuridad en que he nacido: \n",
+            "El pecado y la ignorancia \n",
+            " \n",
+            "Tú, que haces elocuente la \n",
+            "Lengua de los niños, educa \n",
+            "También la mía e infunde en \n",
+            "Mis labios la gracia de tu bendición \n",
+            " \n",
+            "Dame agudeza para entender, \n",
+            "Capacidad para asimilar, \n",
+            "Método y facilidad para aprender, \n",
+            "Ingenio para interpretar \n",
+            "Y gracia copiosa para hablar. \n",
+            " \n",
+            "Dame acierto al empezar; \n",
+            "Dirección al progresar \n",
+            "Y perfección al acabar. \n",
+            "Tú, que eres verdadero Dios \n",
+            "Hombre que vives y reinas \n",
+            "Por los siglos de los siglos. \n",
+            "Amén \n"
+        ]
+        
+    },
+
+    
+    "oracion15":{	
+        "nombre" : "ORACIÓN PARA ANTES Y DESPUÉS DE LA EUCARISTÍA (Santo Tomás de Aquino)",
+
+		"cuerpo": [
+            "Dios eterno y todopoderoso, me acerco al sacramento de tu Hijo unigénito, nuestro Señor Jesucristo, como se acerca al médico el enfermo, el pecador a la fuente de misericordia, el ciego al resplandor de la luz eterna y el pobre e indigente al Dios del cielo y de la tierra. \n",
+            " \n",
+            "Muéstrame, Señor, tu bondad infinita v cura mis debilidades, borra las manchas de mis pecados, ilumina mi ceguera, enriquece mi indigencia y viste mi desnudez, a fin de que pueda yo recibir, en el Pan de los ángeles, al Rey de los reyes y Señor de los señores, con toda la humildad y la reverencia, el arrepentimiento y el amor, la pureza, la fe y el deseo que son necesarios para la salvación de mi alma. \n",
+            " \n",
+            "Haz, Señor, que no sólo reciba yo el sacramento del Cuerpo y la Sangre de tu Hijo, sino también la fuerza que otorga el Sacramento, y que con tal amor reciba yo el Cuerpo que tu Hijo, nuestro Señor Jesucristo, recibió de la Virgen María, que quede yo incorporado a su Cuerpo místico y pueda ser contado como uno de sus miembros. \n",
+            " \n",
+            "Concédeme, Padre lleno de amor, llegar a contemplar al término de esta vida, cara a cara y para siempre, a tu amado Hijo, Jesucristo, a quien voy a recibir hoy, oculto en este sacramento. \n",
+            " \n",
+            "Por el mismo Cristo nuestro Señor, que vive y reina por los siglos de los siglos. Amén. \n"
+        ]        
+    }
+
+
+}

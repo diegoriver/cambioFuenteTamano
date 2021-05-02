@@ -1,0 +1,100 @@
+{
+     "canto1":{
+        "nombre": "Panes de san Sixto",
+        "estrofa1": [
+            "Un día que faltó el pan, \n",
+            "en el convento de San Sixto \n",
+            "tu pediste fray Domingo \n",
+            "que hubiera pan para tus hijos \n",
+            "y de pronto el refectorio \n",
+            "fue testigo de un milagro \n"
+        ],
+        "coro1":[
+            "/Tus frailes vieron dos ángeles \n",
+            "sirviendo el pan que pediste/. \n"
+        ],
+        "estrofa2":[
+            "El amor se hizo pan, \n",
+            "El amor se hizo vino \n",
+            "El amor se hizo fuego \n",
+            "El amor se hizo amigo \n",
+            "El amor fue un milagro \n",
+            "En tu mesa fray Domingo \n"
+        ],
+        "coro2":[
+            "/Visitaron los ángeles \n",
+            "A tus frailes en San Sixto/. \n"
+        ]
+    },
+
+   
+    "canto10":{
+        "nombre": "Tú me enseñaste a amar la luz",
+        "coro1":[
+            "Oh, Oh Lumen, mi estrella mi luz. \n"
+        ],
+        "estrofa1": [
+            "Brilla en tus ojos el amor: \n",
+            "fuego que arde en un cristal; \n",
+            "luz de tu alma transparente que ilumina el corazón. \n",
+            "Tú me enseñaste a amar la luz \n",
+            "y el resplandor de tu mirar; \n",
+            "tus ojos encierran el cielo con su luz de eternidad. \n",
+            " \n",
+            "Pero una estrella se escapó \n",
+            "y de tus ojos fue a tu frente, \n",
+            "su luz encandiló mi vida, \n",
+            "quedé ciego y, sin pensarlo, \n",
+            "me fui tras su resplandor. \n",
+            " \n",
+            "Y por ti yo cambié el camino, \n",
+            "lo dejé todo por tu luz; \n",
+            "ahora tu estrella está conmigo \n",
+            "y llevo en mí tu luz, Domingo. \n",
+            "Me incendiaste, Fray Domingo de Guzmán. \n"
+        ],
+        "coro2":[
+            "Oh, Oh Lumen, mi estrella mi luz (Bis). \n"
+        ],
+        "estrofa2":[
+            "Predicador, en mi frente va tu estrella: \n",
+            "resplandor de libertad. \n",
+            "Tú iluminas hoy mi vida, \n",
+            "luz y fuego brotan de mis manos \n",
+            "para vencer la oscuridad. \n",
+            " \n",
+            "Y por ti yo cambié el camino… \n"
+        ],
+        "coro3":[
+            "Oh, Oh Lumen, mi estrella mi luz (Bis). \n"
+        ]
+    },
+
+    "canto11":{
+        "nombre": "Domingo, tu voz resuena",
+        "coro1":[
+            "/Domingo de Guzmán, tu voz resuena \n",
+            "con ecos de Evangelio de Buena nueva/. \n"
+        ],
+        "estrofa1": [
+            "Caleruega, tu cuna, vio nacer una estrella \n",
+            "que esclareció las sombras, que iluminó la tierra; \n",
+            "de Guzmán y de Aza nació una estirpe nueva \n",
+            "que por muchos caminos, que por muchos caminos \n",
+            "fue rompiendo fronteras. \n",
+            " \n",
+            "Predicador y Apóstol que vives y contemplas \n",
+            "la palabra de Dios y con fuerza la entregas; \n",
+            "palabra que es estudio, oración sementera \n",
+            "de un reino que es justicia, libertad y esperanza \n",
+            "que trae paz a la tierra. \n",
+            " \n",
+            "Alabar, bendecir, predicar es tu esencia, \n",
+            "hablar siempre con Dios o de Dios nos enseñas; \n",
+            "padre Santo Domingo, cumple fiel tu promesa, \n",
+            "pide que tu familia viva en la caridad \n",
+            "y en fraterna pobreza. \n"
+        ]
+    }
+
+}
